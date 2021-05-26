@@ -26,4 +26,4 @@ be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
 
-NOTE - Not an original
+NOTE - Not an original project
